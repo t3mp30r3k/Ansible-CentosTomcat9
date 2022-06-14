@@ -26,7 +26,7 @@ This role contains tasks to:
 - Clone the Project:
 
 ```
-$ git clone https://github.com/jmutai/tomcat-ansible.git
+$ git clone https://github.com/t3mp30r3k/Ansible-CentosTomcat9.git
 $ cd tomcat-ansible
 ```
 
